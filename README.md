@@ -1,4 +1,8 @@
 Week 1 project for the Code Fellows iOS Development Accelerator
+____________________________________________________________________________________________________________________
+![](https://github.com/pakalewis/TwitterClone/blob/master/screenshot.png)
+____________________________________________________________________________________________________________________
+
 
 
 This is a simple clone of the twitter app.
